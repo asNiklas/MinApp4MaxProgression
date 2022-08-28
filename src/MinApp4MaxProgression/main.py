@@ -3,4 +3,4 @@ def ausgeben(text: str) -> None:
 
 
 if __name__ == "__main__":
-    ausgeben("What is what?")
+    ausgeben("Hello World!")
