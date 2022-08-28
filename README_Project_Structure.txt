@@ -1,0 +1,1 @@
+https://bodo-schoenfeld.de/projektstruktur-python/
